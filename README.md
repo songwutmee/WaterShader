@@ -17,5 +17,4 @@ Instead of manually placing foam textures around objects, I engineered a system 
 **Stylized Surface Patterns**
 I implemented a scrolling Voronoi noise setup to simulate water ripples and caustics. By running the texture data through a smoothstep function, I ensured the foam edges remain sharp and clean, preventing any blurry pixels that could break the cartoon aesthetic.
 
-**Vertex Wave Displacement**
-To make the ocean feel alive, I wrote a custom vertex function using Sine waves driven by the engine time and world position. This physically moves the geometry up and down, turning a simple flat plane into a rolling ocean surface without relying on expensive physics calculations.
+**Vertex Wave Displacement** To make the ocean feel alive, I wrote a custom vertex function using Sine waves driven by the engine time and world position. This physically moves the geometry up and down, turning a simple flat plane into a rolling ocean surface without relying on expensive physics calculations.
