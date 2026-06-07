@@ -7,7 +7,9 @@
 [![ToonWater Showcase](https://img.youtube.com/vi/Fp_cOwRofbs/maxresdefault.jpg)](https://youtu.be/Fp_cOwRofbs)
 
 </div>
-*Click the image to watch the demo*
+
+<p align="center"> Click the image to watch the demo</p>
+
 The shader is entirely **Artist Friendly**, exposing all necessary properties in the Unity Inspector so game designers can easily tweak colors, wave speeds, and foam thickness without touching the code.
 
 ***
