@@ -8,7 +8,11 @@
 
 </div>
 
-<p align="center"> Click the image to watch the demo</p>
+<p align="center">
+  <a href="https://youtu.be/Fp_cOwRofbs">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 The shader is entirely **Artist Friendly**, exposing all necessary properties in the Unity Inspector so game designers can easily tweak colors, wave speeds, and foam thickness without touching the code.
 
