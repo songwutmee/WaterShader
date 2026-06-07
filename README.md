@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://youtu.be/Fp_cOwRofbs">
-    <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/▶%20CLICK%20TO%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
